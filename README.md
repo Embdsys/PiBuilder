@@ -1,5 +1,11 @@
 # PiBuilder
 
+## <a name="TL:DR"></a>TL:DR
+
+bash /PiBuilder/boot/scripts/0?_setup.sh
+
+It will reset after each setup file, so need to ssh every dam time.
+
 ## <a name="introduction"></a>Introduction
 
 This project documents my approach to building Raspberry Pi operating systems to support [SensorsIot/IOTstack](https://github.com/SensorsIot/IOTstack).
