@@ -1,6 +1,6 @@
 # PiBuilder
 
-## <a name="TL:DR"></a>TL:DR
+## <a name="TL:DR"></a>TL:DR Run all the setup file
 
 bash /PiBuilder/boot/scripts/0?_setup.sh
 
